@@ -19,3 +19,7 @@ h2 {
 #zodiacName {
 	font-family: 'Caveat';
 }
+
+.bottom-link a {
+	color: white
+}
