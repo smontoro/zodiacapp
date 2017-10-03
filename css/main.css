@@ -1,0 +1,21 @@
+body{
+	background-color: #E3CEDE;
+}
+
+h1 {
+	font-family: 'Kranky', cursive;
+	font-size: 75px;
+}
+
+h2 {
+	font-family: 'Caveat';
+}
+
+.sign {
+	padding: 0 200px;
+	font-size: 20px;
+}
+
+#zodiacName {
+	font-family: 'Caveat';
+}

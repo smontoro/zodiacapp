@@ -2,62 +2,62 @@
 var zodiac = [
     {
         sign: "aquarius",
-        fortune: "Knowledge, Humanitarian, Serious, Insightful, Duplicitous",
+        fortune: "The mad scientist and humanitarian of the horoscope wheel, futuristic Aquarius energy helps us innovate and unite for social justice.",
         image: "img/aquarius.png",
     },
     {
         sign: "aries",
-        fortune: "Active, Demanding, Determined, Effective, Ambitious",
+        fortune: "The pioneer and trailblazer of the horoscope wheel, Aries energy helps us initiate, fight for our beliefs and fearlessly put ourselves out there.",
         image: "img/aries.png"
     },
     {
         sign: "cancer",
-        fortune: "Emotion, Diplomatic, Intensity, Impulsive, Selective",
+        fortune: "The natural nurturer of the horoscope wheel, Cancer energy helps us connect with our feelings, plant deep roots and feather our family nests.",
         image: "img/cancer.png"
     },
     {
         sign: "capricorn",
-        fortune: "Determination, Dominance, Perservering, Practical, Willful",
+        fortune: "The measured master planner of the horoscope family, Capricorn energy teaches us the power of structure and long-term goals.",
         image: "img/capricorn.png"
     },
     {
         sign: "gemini",
-        fortune: "Communication, Indecision, Inquisitive, Intelligent, Changeable",
+        fortune: "The most versatile and vibrant horoscope sign, Gemini energy helps us communicate, collaborate and fly our freak flags at full mast.",
         image: "img/gemini.png"
     },
     {
         sign: "leo",
-        fortune: "Ruling, Warmth, Generosity, Faithful, Initiative",
+        fortune: "The drama queen and regal ruler of the horoscope clan, Leo energy helps us shine, express ourselves boldly and wear our hearts on our sleeves.",
         image: "img/leo.png"
     },
     {
         sign: "libra",
-        fortune: "Balance, Justice, Truth, Beauty, Perfection",
+        fortune: "The balanced beautifier of the horoscope family, Libra energy inspires us to seek peace, harmony and cooperation—and to do it with style and grace.",
         image: "img/libra.png"
     },
     {
         sign: "pisces",
-        fortune: "Fluctuation, Depth, Imagination, Reactive, Indecisive",
+        fortune: "The dreamer and healer of the horoscope family, Pisces energy awakens compassion, imagination and artistry, uniting us as one.",
         image: "img/pisces.png"
     },
     {
         sign: "sagittarius",
-        fortune: "Philosophical, Motion, Experimentation, Optimism",
+        fortune: "The worldly adventurer of the horoscope wheel, Sagittarius energy inspires us to dream big, chase the impossible and take fearless risks.",
         image: "img/sagittarius.png"
     },
     {
         sign: "scorpio",
-        fortune: "Transient, Self-Willed, Purposeful, Unyielding",
+        fortune: "The most intense and focused of the horoscope signs, Scorpio energy helps us dive deep, merge our superpowers and form bonds that are built to last.",
         image: "img/scorpio.png"
     },
     {
         sign: "taurus",
-        fortune: " Security, Subtle strength, Appreciation, Instruction, Patience",
+        fortune: "The persistent provider of the horoscope family, Taurus energy helps us seek security, enjoy earthly pleasures and get the job done.",
         image: "img/taurus.png"
     },
     {
         sign: "virgo",
-        fortune: "Analyzing, Practical, Reflective, Observation, Thoughtful",
+        fortune: "The masterful helper of the horoscope wheel, Virgo energy teaches us to serve, do impeccable work and prioritize wellbeing—of ourselves, our loved ones and the planet.",
         image: "img/virgo.png"
     }
 ];
