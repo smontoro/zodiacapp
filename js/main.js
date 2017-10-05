@@ -65,15 +65,19 @@ var zodiac = [
 
 function findSign() {
 	var userInput = document.getElementById("userInput").value;
+    //loop through zodiac array one item at a time
 	for (i=0; i<zodiac.length; i++){
-		if (userInput === zodiac[i].sign) {
+        //if the value the user typed in is equal to one of our signs, then we do something
+		if (userInput.toLowerCase() === zodiac[i].sign) {
 			document.getElementById("zodiacName").textContent = zodiac[i].sign
 			document.getElementById("zodiacImage").src = zodiac[i].image
 			document.getElementById("zodiacAttributes").textContent = zodiac[i].fortune
-			return
+		    return
 		}
 	}
-document.getElementById("zodiacName").textContent = "not a sign, try again"
+document.getElementById("zodiacName").textContent = "Oops, that's not a sign! Try again."
+document.getElementById("yourHoroscope").textContent = "";
+document.getElementById("icon").
 
 }
 
