@@ -75,15 +75,13 @@ function findSign() {
 		    return
 		}
 	}
-document.getElementById("zodiacName").textContent = "Oops, that's not a sign! Try again."
-document.getElementById("yourHoroscope").textContent = "";
-document.getElementById("icon").
 
 }
 
 
 
-
+/*document.getElementById("yourHoroscope").textContent = "";
+document.getElementById("icon").*/
 
 
 
