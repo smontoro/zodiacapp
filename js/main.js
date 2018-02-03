@@ -80,8 +80,6 @@ function findSign() {
 
 
 
-/*document.getElementById("yourHoroscope").textContent = "";
-document.getElementById("icon").*/
 
 
 
